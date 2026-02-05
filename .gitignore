@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+data/cumplimiento.db
+data/screenshots/
+.streamlit/
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
